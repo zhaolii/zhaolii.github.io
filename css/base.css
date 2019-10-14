@@ -198,7 +198,7 @@ hr {
     margin: 0 auto;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1244px) {
     .container,
     .main {
         width: 900px;

@@ -253,8 +253,8 @@
     }
     
     .slide3-left img {
-        display: block;
         float: right;
+        margin-right: 44px;
     }
     
     .slide3-div .iconfont {
@@ -389,10 +389,9 @@
         border-radius: 5px;
         padding: 8px 16px;
     }
-    
-    .slideAdd2-item:hover {
+    /* .slideAdd2-item:hover {
         background: rgba(255, 255, 255, .18);
-    }
+    } */
     
     .slide4-max {
         display: block;
@@ -596,11 +595,10 @@
         text-align: left;
         /* cursor: pointer; */
     }
-    
-    .slide6-item:hover {
+    /* .slide6-item:hover {
         transform: scale(1.04);
         margin-left: 16px;
-    }
+    } */
     
     .slide6-item .iconfont {
         padding: 0 16px;
@@ -845,6 +843,9 @@
         .slide6-title {
             padding: 0;
         }
+        .slide6-item {
+            margin-bottom: 20px;
+        }
         .slide6-item1 .iconfont,
         .slide6-item2 .iconfont,
         .slide6-item3 .iconfont,
@@ -900,15 +901,48 @@
     }
     
     @media screen and (max-width: 768px) {
-        /* .header {
-            height: 2.8rem;
-            line-height: 2.8rem;
+        body {
+            font-size: 22px;
         }
-        .header-name img {
-            height: 2.8rem;
+        .slide3-div-gover {
+            font-size: 20px;
         }
-        .header-btn {
-            width: 9.2rem;
-            font-size: 0.9rem;
-        } */
+        .slide2-div-desc,
+        .slide3-div-desc,
+        .slideAdd1-item-desc,
+        .slideAdd2-item,
+        .slide5-div-desc,
+        .slide6-item-desc,
+        .footer-phone {
+            font-size: 22px;
+            line-height: 32px;
+        }
+        .slide2-div-book {
+            font-size: 22px;
+        }
+        .footer-filing {
+            font-size: 16px;
+        }
+        .slide3-div-tips,
+        .slideAdd1-item-title,
+        .slideAdd2-desc,
+        .slide5-left-desc,
+        .slide5-div-title,
+        .slide6-item-name {
+            font-size: 26px;
+            line-height: 36px;
+        }
+        .slideAdd1-item-title {
+            min-height: 252px;
+        }
+        .card-div .card-stack {
+            height: 600px !important;
+        }
+        .slide6-item .iconfont {
+            height: 62px;
+        }
+        .shackIntitlemin,
+        .shackIntitle {
+            animation: none;
+        }
     }
