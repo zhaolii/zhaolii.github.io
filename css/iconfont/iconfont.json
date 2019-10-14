@@ -1,0 +1,226 @@
+{
+  "id": "1427569",
+  "name": "筑捷官网（新）",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1316953",
+      "name": "认证",
+      "font_class": "renzheng",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1587553",
+      "name": "盾牌",
+      "font_class": "dunpai",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "2563964",
+      "name": "网页",
+      "font_class": "wangye",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "3764149",
+      "name": "付款",
+      "font_class": "fukuan",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "4843750",
+      "name": "资金安全",
+      "font_class": "9",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "4988787",
+      "name": "app",
+      "font_class": "app",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "5607178",
+      "name": "资金安全",
+      "font_class": "zijinanquan",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "5929000",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "7849551",
+      "name": "电脑 copy",
+      "font_class": "diannaocopy",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "8980426",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "9062919",
+      "name": "白领",
+      "font_class": "bailing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9616295",
+      "name": "筑捷logo",
+      "font_class": "zhujielogo",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "9616297",
+      "name": "筑捷logo（字）",
+      "font_class": "zhujielogozi",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "9616298",
+      "name": "筑捷logo（无小字）",
+      "font_class": "zhujielogowuxiaozi",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "9651151",
+      "name": "发票管理",
+      "font_class": "fapiao",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "9707654",
+      "name": "人群",
+      "font_class": "renqun",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "10339149",
+      "name": "企业1",
+      "font_class": "company-info",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "10676628",
+      "name": "微信小程序同步",
+      "font_class": "weixinxiaochengxutongbu",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "11071555",
+      "name": "1",
+      "font_class": "icon-test",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "11071556",
+      "name": "4",
+      "font_class": "icon-test1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11071557",
+      "name": "3",
+      "font_class": "icon-test2",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "11071558",
+      "name": "2",
+      "font_class": "icon-test3",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11071559",
+      "name": "0",
+      "font_class": "icon-test4",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "11071560",
+      "name": "5",
+      "font_class": "icon-test5",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "11071561",
+      "name": "6",
+      "font_class": "icon-test6",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "11071562",
+      "name": "7",
+      "font_class": "icon-test7",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "11071563",
+      "name": "9",
+      "font_class": "icon-test8",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "11071564",
+      "name": "8",
+      "font_class": "icon-test9",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "11071628",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "11071629",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "11103365",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
