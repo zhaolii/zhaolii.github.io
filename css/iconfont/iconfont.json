@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "595659",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
       "icon_id": "1316953",
       "name": "认证",
       "font_class": "renzheng",
@@ -39,6 +46,13 @@
       "font_class": "9",
       "unicode": "e635",
       "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "4896937",
+      "name": "精准扶贫",
+      "font_class": "jingzhunfupin",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
     },
     {
       "icon_id": "4988787",
@@ -78,9 +92,16 @@
     {
       "icon_id": "9062919",
       "name": "白领",
-      "font_class": "bailing",
-      "unicode": "e600",
-      "unicode_decimal": 58880
+      "font_class": "renwu11",
+      "unicode": "e235",
+      "unicode_decimal": 57909
+    },
+    {
+      "icon_id": "9369274",
+      "name": "效能提升icon备份-01",
+      "font_class": "xiaonengtishengiconbeifen-",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
     },
     {
       "icon_id": "9616295",
@@ -116,6 +137,13 @@
       "font_class": "renqun",
       "unicode": "e691",
       "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "9921176",
+      "name": "倒计时",
+      "font_class": "daojishi",
+      "unicode": "e689",
+      "unicode_decimal": 59017
     },
     {
       "icon_id": "10339149",

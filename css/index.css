@@ -45,6 +45,27 @@
         align-items: center;
     }
     
+    .totop {
+        cursor: pointer;
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        width: 30px;
+        height: 30px;
+        font-size: 30px;
+        border-radius: 50%;
+        color: rgba(82, 82, 204, 0.2);
+        z-index: 99;
+    }
+    
+    .displayNone {
+        display: none;
+    }
+    
+    .totop:hover {
+        color: rgba(82, 82, 204, 0.8);
+    }
+    
     .slide1-banner img {
         display: inline-block;
         vertical-align: middle;
@@ -103,6 +124,12 @@
     .page-title {
         font-size: 50px;
         font-weight: 600;
+    }
+    
+    .slide2 .page-title,
+    .slide3 .page-title,
+    .slide5 .page-title {
+        margin-top: 60px;
     }
     
     .shackIntitle {
@@ -336,6 +363,8 @@
         border-radius: 8px 0px 0px 8px;
         margin-left: -20px;
         background: #fff;
+        position: relative;
+        overflow: hidden;
     }
     
     .slideAdd1-item:hover {
@@ -350,6 +379,15 @@
         font-size: 64px;
         color: #5252CC;
         opacity: .05;
+    }
+    
+    .slideAdd1-item .icon-right {
+        font-size: 120px;
+        color: #5252CC;
+        opacity: .02;
+        position: absolute;
+        top: -15px;
+        right: 50px;
     }
     
     .slideAdd1-item-title {
@@ -567,6 +605,10 @@
         display: flex;
     }
     
+    .slide6 .page-title {
+        margin-top: 30px;
+    }
+    
     .slide6-title {
         padding-top: 208px;
         color: #fff;
@@ -650,6 +692,10 @@
         background-size: 100% 100%;
     }
     
+    .slide7 .row {
+        margin-top: -160px;
+    }
+    
     .slide7-left {
         text-align: left;
     }
@@ -716,24 +762,25 @@
         bottom: 20px;
     }
     
-    .footer .container {
-        display: flex;
-        justify-content: center;
-    }
-    
     .footer-name {
         color: #5252CC;
         font-size: 14px;
         font-weight: 600;
+        margin-bottom: 40px;
+        line-height: 24px;
+        display: flex;
+        justify-content: center;
     }
     
     .footer-name .iconfont {
         font-size: 24px;
+        margin-right: 4px;
     }
     
     .footer-phone {
         font-size: 16px;
         font-weight: 600;
+        margin-bottom: 20px;
     }
     
     .footer-filing {
@@ -944,5 +991,8 @@
         .shackIntitlemin,
         .shackIntitle {
             animation: none;
+        }
+        .footer-name {
+            display: none;
         }
     }
